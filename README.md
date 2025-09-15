@@ -6,10 +6,6 @@
 2. **Install dependencies**: `npm install --legacy-peer-deps`  
 3. **Start the app**: `npx expo start --web`
 
-## 📱 Login Credentials
-- Email: `test4@gmail.com`
-- Password: `Logmein@123#`
-
 ## ✅ Features Included
 - Custom school header with student overlay
 - Glass morphism effects  
